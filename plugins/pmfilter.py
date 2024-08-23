@@ -1935,19 +1935,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "premium_info":
         buttons = [[
-            InlineKeyboardButton('• ꜰʀᴇᴇ ᴛʀɪᴀʟ •', callback_data='free')
+            InlineKeyboardButton('• ꜰʀᴇᴇ ᴛʀɪᴀʟ •', callback_data='free'),
+            InlineKeyboardButton('• ʙʀᴏɴᴢᴇ •', callback_data='broze')
         ],[
-            InlineKeyboardButton('• ʙʀᴏɴᴢᴇ •', callback_data='broze'),
-            InlineKeyboardButton('• ꜱɪʟᴠᴇʀ •', callback_data='silver')
+            InlineKeyboardButton('• ꜱɪʟᴠᴇʀ •', callback_data='silver'),
+            InlineKeyboardButton('• ɢᴏʟᴅ •', callback_data='gold')
         ],[
-            InlineKeyboardButton('• ɢᴏʟᴅ •', callback_data='gold'),
-            InlineKeyboardButton('• ᴘʟᴀᴛɪɴᴜᴍ •', callback_data='platinum')
-        ],[
-            InlineKeyboardButton('• ᴅɪᴀᴍᴏɴᴅ •', callback_data='diamond'),
+            InlineKeyboardButton('• ᴘʟᴀᴛɪɴᴜᴍ •', callback_data='platinum'),
             InlineKeyboardButton('• ᴏᴛʜᴇʀ •', callback_data='other')
         ],[ 
-            InlineKeyboardButton('• ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ •', callback_data='subscription')
-        ],[         
+            InlineKeyboardButton('• ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ •', callback_data='subscription'),         
             InlineKeyboardButton('⇋ ʙᴀᴄᴋ ᴛᴏ ʜᴏᴍᴇ ⇋', callback_data='start')
         ]]
         
@@ -3482,7 +3479,7 @@ async def auto_filter(client, msg, spoll=False):
             ]
         )
         btn.insert(0, [
-            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/OtakuFlix_Network/4639"),
+            InlineKeyboardButton("ᴘʀᴇᴍɪᴜᴍ", url=f"https://t.me/xaekks/6"),
             InlineKeyboardButton("sᴇɴᴅ ᴀʟʟ", callback_data=f"sendfiles#{key}")
         ])
 

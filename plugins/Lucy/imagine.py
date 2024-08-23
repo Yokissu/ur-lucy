@@ -15,11 +15,11 @@ async def imagine_(b, message: Message):
     try:
         await b.send_chat_action(message.chat.id, ChatAction.UPLOAD_PHOTO)
         x=api.ai_image(text)
-        with open("lucy.jpg", 'wb') as f:
+        with open("kissuXbots.jpg", 'wb') as f:
             f.write(x)
         caption = f"""
     ⌯ sᴜᴄᴇssғᴜʟʟʏ ɢᴇɴᴇʀᴀᴛᴇᴅ : {text}
-    ⌯ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ : @lucy_filter_bot
+    ⌯ ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ : @kissuxbots
     """
         await Lucy.delete()
         await message.reply_photo("lucy.jpg",caption=caption,quote=True)

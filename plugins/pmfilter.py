@@ -1551,14 +1551,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton(text="💸", callback_data="shortlink_info"),
                     InlineKeyboardButton(text="🖥", callback_data="main"),
                 ],[
-                    InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('• ᴄᴏᴍᴍᴀɴᴅꜱ •', callback_data='main'),
-                    InlineKeyboardButton('• ᴇᴀʀɴ ᴍᴏɴᴇʏ •', callback_data='shortlink_info')
-                ],[
-                    InlineKeyboardButton('• ᴘʀᴇᴍɪᴜᴍ •', callback_data='premium_info'),
-                    InlineKeyboardButton('• ᴀʙᴏᴜᴛ •', callback_data='about')
-                  ]]
+                    InlineKeyboardButton("• Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Cʜᴀᴛ •", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+            ],[
+            InlineKeyboardButton("📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌", url="http://t.me/kissuXbots")
+            ],[
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-ᴄʜᴀɴɴᴇʟ ", url="https://t.me/+1MxLxqoanIFlYzM9"), 
+            InlineKeyboardButton("•Mᴏᴠɪᴇs-Gʀᴏᴜᴘ", url="https://t.me/ur_movie_group")
+            ],[      
+            InlineKeyboardButton("•Hᴇʟᴩ 🕸️", callback_data="main"),
+            InlineKeyboardButton("Aʙᴏᴜᴛ 🪴", callback_data="about")
+            ],[
+            InlineKeyboardButton('🌸 ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ ғʀᴇᴇ ᴏʀ ʙᴜʏ 🌸', callback_data='premium_info')
+        ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
         current_time = datetime.now(pytz.timezone(TIMEZONE))
@@ -2077,6 +2081,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "group_info":
         buttons = [[
             InlineKeyboardButton('✫ ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ✫', url="https://t.me/kissuXbots/42")
+       ],[
+            InlineKeyboardButton('✫ Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ✫', url="https://t.me/ur_movie_group")
        ],[
             InlineKeyboardButton('• Oᴛᴛ uᴘᴅᴀᴛᴇs •', url="t.me/kissuXbots"),
             InlineKeyboardButton('• Mᴏᴠɪᴇꜱ •', url="https://t.me/+1MxLxqoanIFlYzM9")

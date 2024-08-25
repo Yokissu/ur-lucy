@@ -213,7 +213,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇</b> 
 
-<code>/ytthumb https://youtu.be/BqlMwyABE</code>"""
+<code>/ytthumb https://youtu.be/BqlMyABE</code>"""
 
     GITHUB = """<b>ɢɪᴛʜᴜʙ ᴅᴇᴛᴀɪʟs -</b>
 
@@ -243,9 +243,9 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 ᴇxᴀᴍᴘʟᴇ :</b>
 
-<code>/mp4 https://youtu.be/BqlMBHOE</code>
+<code>/mp4 https://youtu.be/BqlMHOE</code>
 
-<code>/video https://youtu.be/BqlMwyABE</code>"""
+<code>/video https://youtu.be/BqlMABE</code>"""
 
     REPORT = """<b>ʀᴇᴘᴏʀᴛ 🧑🏻‍✈️  
 
@@ -278,12 +278,7 @@ NOTE:
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
-    OPNAI_TXT = """ᴏᴘᴇɴᴀɪ ɪꜱ ᴀ ᴀɪ ꜱʏꜱᴛᴇᴍ ᴛʜᴀᴛ ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ꜰɪɴᴅ ᴀɴꜱᴡᴇʀ ᴏꜰ ʏᴏᴜʀ Qᴜᴇꜱᴛɪᴏɴ ᴀɴᴅ ɪᴛ ᴡɪʟʟ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛ ᴘᴍ.
-
-ʜᴏᴡ ᴛᴏ ᴜꜱᴇ
-
-/ᴏᴘᴇɴᴀɪ ᴡʜᴀᴛ ɪꜱ ᴀᴘᴘᴇɴᴅ ᴍᴇᴛʜᴏᴅ ɪɴ ᴘʏᴛʜᴏɴ
-"""
+    OPNAI_TXT = """Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
 
     KANG = """
 Create Own Sticker And Sticker pack
@@ -345,15 +340,8 @@ sᴀᴀᴠɴ sᴏɴɢs ᴄᴏᴍᴍᴀɴᴅ
 /ping Bot Speed Test Command 
 """
 
-    REPO = """<b>ʀᴇᴘᴏ ᴅᴇᴛᴀɪʟs -</b>
-
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ɢɪᴛʜᴜʙ's ʀᴇᴘᴏ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴘ ᴏғ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ.
-
-❍ /repo : search any repo
-❍ /allrepo : get all repo
-❍ /downloadrepo : download the repo
-
-ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇ ᴄᴏᴍɪɴɢ sᴏᴏɴ."""
+    REPO = """Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots
+    ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇ ᴄᴏᴍɪɴɢ sᴏᴏɴ."""
 
     SHORTNER = """<b>ᴜʀʟ sʜᴏʀᴛɴᴇʀ</b>
 
@@ -412,54 +400,13 @@ sᴀᴀᴠɴ sᴏɴɢs ᴄᴏᴍᴍᴀɴᴅ
 5. /luck ᴏʀ /cownd - sᴘɪɴ ᴀɴᴅ ᴛʀʏ ʏᴏᴜʀ ʟᴜᴄᴋ</b>"""
 
     CC_TXT = """
-<b>HELP: CC Tools
-
-Credit Card stuffs being easy with CC Module!
-
-USAGE:
-➢ /sk - Check if stripe key is live or not.
-➢ /bin - Check if given bin is valid or not.
-➢ /fake - Generate random fake user details.
-➢ /gen - Generate random credit cards info.
-➢ /cc - Generate random credit cards.
-
-NOTE:
-• ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member.</b>"""
+<b>Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots</b>"""
 
     ANIME_TXT = """
-<b>Get information about animes, manga and characters!
-
-USAGE:
-➢ /neko [-n] - Get random neko picture (-n for nsfw).
-➢ /waifu [-n] - Get random waifu picture (-n for nsfw).
-➢ /anime [name] - Get the information about the anime.
-➢ /manga [name] - Get the information about the manga.
-➢ /hentai [name] - Get and read the hentai manga (nsfw).
-➢ /hentai [-r] - Get random hentai manga to read (nsfw).
-➢ /aninews - Get latest anime news from myanimelist.net.
-➢ /aniquote - Get awesome random anime quotes everytime.
-➢ /character [name] - Get the information about the character.
-
-NOTE:
-• ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member.</b>"""
+<b>Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots</b>"""
 
     FSUB_TXT = """
-<b>Force members to join channel before writing on chat!
-
-USAGE:
-➢ /fsub - Get the current status.
-➢ /fsub [off] - Disable forcesub in the chat.
-➢ /fsub [channel id/ username] - Setup forcesub channel.
-➢ /fsub [clear] - Unmute all members who are muted by me.
-
-NOTE:
-• ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ should have admin privillage.
-• These commands works on both pm and group.
-• These commands can be used by any group member.</b>"""
+<b>Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots</b>"""
 
     DONATION_TXT = """<b>donation</b> 
 
@@ -492,55 +439,16 @@ Cᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ Uꜱᴀɢᴇ:
 ➻ /vvideo - ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ
 ➻ /song - sᴘᴏᴛɪғʏ sᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ
 """
-    CHATAI = """
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ   ᴄʜᴀᴛ ᴀɪ :
-
- ᴀɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ  ᴀɴᴅ sʜᴏᴡs ʏᴏᴜ ᴛʜᴇ ʀᴇsᴜʟᴛ
-
- ❍ /chatgpt  : ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
- ❍ /lucy : ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
- ❍ /ask : ᴀɪ ɢᴏᴏɢʟᴇ ᴀɪ 
- ❍ /gpt : chatgpt
- ❍ /chat :  ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
-"""
+    CHATAI = """Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
     ENCRYPT = """
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ ᴇɴᴄʀʏᴘᴛ :
-
-ᴄᴏɴᴠᴇʀᴛs
- ❍ /encrypt: ᴇɴᴄʀʏᴘᴛs ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
- ❍ /decrypt: ᴅᴇᴄʀʏᴘᴛs ᴘʀᴇᴠɪᴏᴜsʟʏ ᴇᴄʀʏᴘᴛᴇᴅ ᴛᴇxᴛ
- ❍ /encode: ᴇɴᴄᴏᴅᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
- ❍ /decode: ᴅᴇᴄᴏᴅᴇ ᴘʀᴇᴠɪᴏᴜsʟʏ ᴇᴄʀʏᴘᴛᴇᴅ ᴛᴇxᴛ
- ❍ /morseencode: Mᴏʀsᴇ Eɴᴄᴏᴅᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
- ❍ /morsedecode: ᴅᴇᴄʀʏᴘᴛs ᴘʀᴇᴠɪᴏᴜsʟʏ ᴇᴄʀʏᴘᴛᴇᴅ ᴛᴇxᴛ
- ❍ /password :  ɢɪᴠᴇ ʟᴇɴɢᴛʜ ᴏғ ᴘᴀssᴡᴏʀᴅ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ
- ❍ /uselessfact : Gᴇɴᴇʀᴀᴛᴇ  Rᴀᴍᴅᴏᴍ Usᴇʟᴇss Fᴀᴄᴛ
-"""
+Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
     YTSEARCH = """
-The YouTube search module is a feature on the YouTube platform that allows users to search for specific videos, channels, or topics. When you enter a search query in the search bar on YouTube, the search module displays relevant results based on your query. You can filter the results by videos, channels, playlists, or live streams to find the content you are looking for. The search module also provides suggestions as you type, making it easier to discover new content on YouTube. Additionally, the search module may display trending or popular videos related to your search query. Overall, the YouTube search module is a powerful tool that helps users find and explore a wide range of video content on the platform.
-
-ᴄᴏᴍᴍᴀɴᴅ
- ❍ /ytsearch: sᴇᴀʀᴄʜ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ
- ❍ /google : google search
-"""
+Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
     FIGLET_TXT = """
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ Fɪɢʟᴇᴛ :
-
-❍ /figlet: ᴍᴀᴋᴇs ғɪɢʟᴇᴛ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
-Example:
-
-/figlet KISSU
-"""
+Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
 
     WALL = """
-» ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ꜰᴏʀ ᴡᴀʟʟᴘᴀᴘᴇʀs:
-
-❍ /wall: sᴇᴀʀᴄʜ ᴡᴀʟʟᴘᴀᴘᴇʀ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
-❍ /wallpaper : sᴇᴀʀᴄʜ ᴡᴀʟʟᴘᴀᴘᴇʀ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
-Example:
-
-/wall KISSU
-"""
+Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
     GROUPDATA = """
 ɢᴇᴛ ɢʀᴏᴜᴘ ɪɴғᴏʀᴍᴀᴛɪᴏɴ
 
@@ -673,27 +581,7 @@ USAGE:
 """
 
     EXPERT_TXT = """
-ᴛʜᴇsᴇ ᴀʀᴇ sᴏᴍᴇ ᴀɪ/ᴇxᴘᴇʀᴛ ᴄᴏᴍᴍᴀɴᴅs
-
- ➻ /mahadev : ɢᴇɴᴇʀᴀᴛᴇ Mᴀʜᴀᴅᴇᴠ ɪᴍᴀɢᴇ
- ➻ /fakegen : ɢᴇɴᴇʀᴀᴛᴇs ғᴀᴋᴇ Iɴғᴏʀᴍᴀᴛɪᴏɴ
- ➻ /picgen : ɢᴇɴᴇʀᴀᴛᴇ ᴀ ғᴀᴋᴇ ᴘɪᴄ
- ➻ /eval : ᴛᴏ ᴇᴠᴀʟᴜᴀᴛᴇ sɪᴍᴘʟᴇ ᴄᴏᴅᴇ
- ➻ /ask : ʀᴇᴘʟʏ ᴛo ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
- ➻ /draw : ᴄʀᴇᴀᴛᴇ ɪᴍᴀɢᴇs
- ➻ /upscale : ᴜᴘsᴄᴀʟᴇ ʏᴏᴜʀ ɪᴍᴀɢᴇs
- ➻ /gpt : ᴄʜᴀᴛɢᴘᴛ
- ➻ /kya : ᴀɪ ʙʏ ɢᴏᴏɢʟᴇ
- ➻ /reverse : ʀᴇᴠᴇʀsᴇ ɪᴍᴀɢᴇ sᴇᴀʀᴄʜ
- ➻ /imagine : ᴄʀᴇᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇs
-
-ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
-• ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
-• ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
-
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴠɪʟ ᴍᴏᴠɪᴇs ʙᴏᴛ..
-"""
+Cᴜʀʀᴇɴᴛʟʏ Wᴇ Aʀᴇ Wᴏʀᴋɪɴɢ Oɴ Iᴛ Cᴏᴍᴇ Aɢᴀɪɴ Lᴀᴛᴇʀ  - @kissuxbots"""
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
 ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @kissuxbots"""

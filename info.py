@@ -35,7 +35,7 @@ CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/ded6640caffcd72b77f64.jpg https://telegra.ph/file/54b0ae662175ac6af6075.jpg https://telegra.ph/file/857a050c16577c3f140e0.jpg https://telegra.ph/file/a53e31d5f1617573cfaf6.jpg https://telegra.ph/file/252c23180fd4ec651d05c.jpg https://telegra.ph/file/43de56c43d2bfde9b436b.jpg https://telegra.ph/file/962f894d97316f97dfb97.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/ded6640caffcd72b77f64.jpg")
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/962f894d97316f97dfb97.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/857a050c16577c3f140e0.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/54b0ae662175ac6af6075.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
@@ -44,7 +44,7 @@ CODE = (environ.get('CODE', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
 STREAM_API = (environ.get('STREAM_API', ''))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/How_to_Download_7x/32'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HOWTOVERIFY'))
 
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
@@ -97,7 +97,7 @@ DUMP_CHNL = int(environ.get('DUMP_CHNL', '-1002201388457'))
 
 # Verify
 VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
-HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/How_to_Download_7x/26') # How to open tutorial link for verification
+HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/howtoverifybot') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shareus.io')
@@ -114,7 +114,7 @@ S_GROUP = environ.get('S_GROUP', "pwlived")
 S_CHANNEL = environ.get('S_CHANNEL', "kissuXbots")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ur_movie_group')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/kissuxbots')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_to_Download_7x/32') # Tutorial video link for opening shortlink website 
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoverifybot') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 𓆩•𝐊𝐢𝐬𝐬𝐮💞•𓆪')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/pwlived') #Support group link ( make sure bot is admin )

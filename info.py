@@ -43,7 +43,7 @@ CODE = (environ.get('CODE', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
-STREAM_API = (environ.get('STREAM_API', 'yGWkGITXtzM2HJQHqi9qtiW8lyl1'))
+STREAM_API = (environ.get('STREAM_API', ''))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoverifybot/10'))
 
 # Command
@@ -69,7 +69,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False)) # True if you want no results messages in Log Channel
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://yasmine128561:kissu88@cluster0.hnqbr.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Yousay:Yousay@cluster0.n8rdztl.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
@@ -88,7 +88,7 @@ TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫ
 APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Referal Settings
-REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '15')) # number of referal count
+REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '10')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1 week')
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kissuxadmin') # owner username without @
 
@@ -96,13 +96,13 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001991480157')) #Log channel id 
 DUMP_CHNL = int(environ.get('DUMP_CHNL', '-1002201388457'))
 
 # Verify
-VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
+VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/howtoverifybot/9') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shareus.io')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'yGWkGITXtzM2HJQHqi9qtiW8lyl1')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+SHORTLINK_API = environ.get('SHORTLINK_API', '')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)

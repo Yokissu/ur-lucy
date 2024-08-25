@@ -43,7 +43,7 @@ CODE = (environ.get('CODE', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'instantearn.in'))
-STREAM_API = (environ.get('STREAM_API', 'c516614542b671d64107f8bee308ae4d7b393072'))
+STREAM_API = (environ.get('STREAM_API', 'e1e37951b5e4617df8703bbe3103bd2f9566f4a8'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoverifybot/8'))
 
 # Command
@@ -88,7 +88,7 @@ TEXT = environ.get("APPROVED_WELCOME_TEXT", "<b>{mention},\n\nʏᴏᴜʀ ʀᴇǫ
 APPROVED = environ.get("APPROVED_WELCOME", "on").lower()
 
 # Referal Settings
-REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '10')) # number of referal count
+REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '15')) # number of referal count
 REFERAL_PREMEIUM_TIME = environ.get('REFERAL_PREMEIUM_TIME', '1 week')
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kissuxadmin') # owner username without @
 
@@ -101,7 +101,7 @@ HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/howtoverifybot/8') # How 
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'c516614542b671d64107f8bee308ae4d7b393072')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'e1e37951b5e4617df8703bbe3103bd2f9566f4a8')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")

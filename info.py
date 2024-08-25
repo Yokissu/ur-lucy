@@ -96,8 +96,8 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001991480157')) #Log channel id 
 DUMP_CHNL = int(environ.get('DUMP_CHNL', '-1002201388457'))
 
 # Verify
-VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
-HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/howtoverifybot/9') # How to open tutorial link for verification
+VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
+HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/howtoverifybot/8') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'shareus.io')

@@ -43,8 +43,8 @@ CODE = (environ.get('CODE', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
-STREAM_API = (environ.get('STREAM_API', ''))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HOWTOVERIFY'))
+STREAM_API = (environ.get('STREAM_API', 'yGWkGITXtzM2HJQHqi9qtiW8lyl1'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoverifybot/10'))
 
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
@@ -58,7 +58,7 @@ CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHAN
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '6974765148').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1002100267327') #Channel / Group Id for force sub ( make sure bot is admin )
+auth_channel = environ.get('AUTH_CHANNEL', '-1002100267327 -1002216874688') #Channel / Group Id for force sub ( make sure bot is admin )
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None

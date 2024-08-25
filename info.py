@@ -42,9 +42,9 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://graph.org/file/347c1f79f36d
 CODE = (environ.get('CODE', 'https://graph.org/file/347c1f79f36d3cf14e0f5.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
-STREAM_API = (environ.get('STREAM_API', ''))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoverifybot/10'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'instantearn.in'))
+STREAM_API = (environ.get('STREAM_API', 'c516614542b671d64107f8bee308ae4d7b393072'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/howtoverifybot/8'))
 
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
